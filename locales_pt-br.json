@@ -2,7 +2,8 @@
   "result": {
     "languages": {
       "pt-br": {
-        "help_description_ping": "**Sobre o comando:**\n**Ping** é um comando comumente utilizado para saber se o bot está funcionando ou não, também pode ser usado por motivos técnicos.\n**Como usar?:**\nApenas envie o comando, não é necessário adicionar argumentos.\n**Comando:**\n`%{PREFIX}%`**ping**",
+        "help_description_help": "**Sobre o comando:**\n- **%{1}%** é um comando comumente utilizado para saber quais comandos existem no bot, também é usado para entender como um comando específico funciona.\n**Como usar?:**\n- Para ter a lista de comandos disponíveis no bot, apenas envie o comando, não é necessário argumentos.\n- Para entender como algum comando específico funciona, envie o comando com um argumento: o comando que você quer saber como usar.\n**Comando:**\n**`%{PREFIX}%`%{2}% (<comando>)**",
+        "help_description_ping": "**Sobre o comando:**\n**%{1}%** é um comando comumente utilizado para saber se o bot está funcionando ou não, também pode ser usado por motivos técnicos.\n**Como usar?:**\nApenas envie o comando, não é necessário adicionar argumentos.\n**Comando:**\n`%{PREFIX}%`**%{2}%**",
         "ping_message": "Pong! `%{PING}%ms`"
       }
     }
