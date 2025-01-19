@@ -2,7 +2,7 @@
   "result": {
     "languages": {
       "pt-br": {
-        "help_description": "**Olá,**\nAqui está a lista de comandos:\n-# use %{PREFIX}%%{1}% <comando> para saber mais sobre um comando específico.\n**Lista de comandos:**\n- **`%{PREFIX}%`ajuda**\n- **`%{PREFIX}%`ping**",
+        "help_description": "# Olá, aqui está a lista de comandos:\n-# use %{PREFIX}%%{1}% <comando> para saber mais sobre um comando específico.\n**Lista de comandos:**\n- **`%{PREFIX}%`ajuda**\n- **`%{PREFIX}%`ping**",
         "help_description_none": "**Comando não encontrado**\n- Não consegui encontrar o seu comando! Tem certeza que você digitou certo? Tente usar o comando novamente! (Talvez apenas eu sou muito burra e não entendi qual comando você quer procurar <:2scared:1329322733519241300>)",
         "help_description_help": "**Sobre o comando:**\n- **%{1}%** é um comando comumente utilizado para saber quais comandos existem no bot, também é usado para entender como um comando específico funciona.\n**Como usar?**\n- Para ter a lista de comandos disponíveis no bot, apenas envie o comando, não é necessário argumentos.\n- Para entender como algum comando específico funciona, envie o comando com um argumento: o comando que você quer saber como usar.\n**Comando:**\n**`%{PREFIX}%`%{2}% (<comando>)**",
         "help_description_ping": "**Sobre o comando:**\n**%{1}%** é um comando comumente utilizado para saber se o bot está funcionando ou não, também pode ser usado por motivos técnicos.\n**Como usar?**\nApenas envie o comando, não é necessário adicionar argumentos.\n**Comando:**\n`%{PREFIX}%`**%{2}%**",
