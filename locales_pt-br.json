@@ -2,7 +2,7 @@
   "result": {
     "languages": {
       "pt-br": {
-        "ping_message": "Pong! %{PING}%ms"
+        "ping_message": "Pong! `%{PING}%ms`"
       }
     }
   }
