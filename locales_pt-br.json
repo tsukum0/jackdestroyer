@@ -2,7 +2,7 @@
   "result": {
     "languages": {
       "pt-br": {
-        "change_language": "Prontinho! A partir de agora, irei falar em `Português, Brasil`!"
+        "ping_message": "Pong! %{PING}%ms"
       }
     }
   }
