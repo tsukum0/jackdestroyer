@@ -2,6 +2,7 @@
   "result": {
     "languages": {
       "pt-br": {
+        "help_description_ping": "**Sobre o comando:**\n**Ping** é um comando comumente utilizado para saber se o bot está funcionando ou não, também pode ser usado por motivos técnicos.\n**Como usar?:**\nApenas envie o comando, não é necessário adicionar argumentos.\n**Comando:**\n`$var[prefix]`**ping**",
         "ping_message": "Pong! `%{PING}%ms`"
       }
     }
