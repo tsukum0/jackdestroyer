@@ -1,6 +1,10 @@
 {
   "result": {
     "languages": {
+      "en-us": {
+        "help_description_none": "**Command not found!**\n- I couldn't find the command! Are you sure that you typed correctly? Try using the command again! (Maybe i'm just dumb to understand those confusing words...) <:2scared:1329322733519241300>)",
+        "help_description": "# Hey, here are the command list:\n-# use %{PREFIX}%%{1}% <comando> to know more about a especific command.\n**Command list:**\n- **`%{PREFIX}%`help**\n- **`%{PREFIX}%`ping**"
+      },
       "pt-br": {
         "help_description": "# Olá, aqui está a lista de comandos:\n-# use %{PREFIX}%%{1}% <comando> para saber mais sobre um comando específico.\n**Lista de comandos:**\n- **`%{PREFIX}%`ajuda**\n- **`%{PREFIX}%`ping**",
         "help_description_none": "**Comando não encontrado**\n- Não consegui encontrar o seu comando! Tem certeza que você digitou certo? Tente usar o comando novamente! (Talvez apenas eu sou muito burra e não entendi qual comando você quer procurar <:2scared:1329322733519241300>)",
