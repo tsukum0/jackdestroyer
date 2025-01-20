@@ -2,7 +2,7 @@
   "result": {
     "languages": {
       "en-us": {
-        "ping_message": "Pong! `%{PING}%ms`",
+        "ping_message": "<:www:1316517706341552248> | Pong! `%{PING}%ms`\n\n<:slash_commands:1316517712889122886>\n | Execution time: `%{EXECUTIONTIME}%`",
         "help_description_help": "**Command info:**\n- **%{1}%** command is used to list all commands of the bot, also used to know how a especific command works\n**How to?**\n- Too see the command list, just send the command, it's not necessary to add args.\n- To know how a especific command works, send the command with an argument containing the other command.\n**Command:**\n**`%{PREFIX}%`%{2}% (<comando>)**",
         "help_description_ping": "**Command info:**\n**%{1}%** the command is used mostly to know if the bot is working or not, sometimes used for technical reasons.\n**How to?**\nJust send the command, it's not necessary to add args.\n**command:**\n`%{PREFIX}%`**%{2}%**",
         "help_description_none": "**Command not found!**\n- I couldn't find the command! Are you sure that you typed correctly? Try using the command again! (Maybe i'm just dumb to understand those confusing words...) <:2scared:1329322733519241300>)",
